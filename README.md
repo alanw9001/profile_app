@@ -4,7 +4,7 @@ A shallow profile application
 
 ## Running this application
 
-Download the app-release.apk file.
+Download the profile_app.apk file.
 
 Using the Android Studio emulator (or your Android emulator of choice), drag the .apk into the emulator window, which will install the app on the emulated device.
 
